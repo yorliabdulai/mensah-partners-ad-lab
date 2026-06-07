@@ -5,8 +5,7 @@
 Mensah & Partners is a fictional Ghanaian accounting firm with 20 
 staff across four departments. Before this implementation, each 
 computer ran local user accounts with no central management, no 
-password enforcement, and no access controls. A stolen laptop meant 
-all its data was immediately accessible.
+password enforcement, no access controls and no way to know who accessed what. 
 
 The goal of this implementation is to centralise identity management, 
 enforce security policies, and control access to sensitive financial 
