@@ -168,7 +168,7 @@ Eight domain user accounts were created with realistic Ghanaian names, placed in
 | Abena Osei | abena.osei | HR |
 | Kofi Boateng | kofi.boateng | HR |
 | Yaw Darko | yaw.darko | IT |
-| Ama Sarpong | ama.sarpong | IT |
+| Abdulai Iddrisu | abdulai.iddrisu | IT |
 | Kweku Mensah | kweku.mensah | Management |
 | Adwoa Asante | adwoa.asante | Management |
 
@@ -176,7 +176,7 @@ Each user was then added to their department's Security Group via the group's Pr
 
 ![IT OU showing IT-Staff group and users](screenshots/server10.png)
 
-*IT OU showing the IT-Staff security group alongside domain users Yaw Darko and Ama Sarpong.*
+*IT OU showing the IT-Staff security group alongside domain users Yaw Darko and Abdulai Iddrisu.*
 
 ---
 
