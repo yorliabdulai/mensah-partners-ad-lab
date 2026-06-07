@@ -159,7 +159,7 @@ The key principle: **permissions are never assigned to individual users, only to
 
 ## Part 7 — Creating Domain User Accounts
 
-Eight domain user accounts were created with realistic Ghanaian names, placed inside their respective department OUs.
+Eight domain user accounts were created and placed inside their respective department OUs.
 
 | Full Name | Username | Department |
 |-----------|----------|------------|
