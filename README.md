@@ -447,4 +447,4 @@ This is Project 1 of 3.
 
 ---
 
-*Built by Abdulai Yorli Iddrisu | IT Support & Automation Engineer at KPMG Ghana | AWS Certified Solutions Architect Associate*
+*Built by Abdulai Yorli Iddrisu*
