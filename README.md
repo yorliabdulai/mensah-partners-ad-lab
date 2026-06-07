@@ -2,7 +2,7 @@
 
 ## The Problem
 
-Most small businesses in Ghana run their computers with no central management. Everyone uses local accounts, there are no password policies, and if a laptop gets stolen, every file on it is accessible to whoever picks it up. For a firm handling client financial data, that's not just an IT problem — it's a legal one under Ghana's Data Protection Act.
+Most small businesses in Ghana run their computers with no central management. Everyone uses local accounts, there are no password policies, no access controls and no way to know who accessed what. For a firm handling client financial data, that's not just an IT problem — it's a legal one under Ghana's Data Protection Act.
 
 This lab simulates what it looks like to fix that properly.
 
