@@ -73,7 +73,7 @@ Security Groups follow the AGDLP model:
 |-------------------|------------|----------------------------------|
 | Finance-Staff     | Finance    | akosua.mensah, kwame.asante      |
 | HR-Staff          | HR         | abena.osei, kofi.boateng         |
-| IT-Staff          | IT         | yaw.darko, ama.sarpong           |
+| IT-Staff          | IT         | yaw.darko, abdulai.iddrisu           |
 | Management-Staff  | Management | kweku.mensah, adwoa.asante       |
 
 ## GPO Design Summary
